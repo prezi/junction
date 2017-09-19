@@ -1,5 +1,5 @@
-# hackjunction
-Prezi material for the hackjunction workshop
+# junction
+Prezi material for the Junction workshop (@ Google Grund, 18 September 2017)
 
 We need to load the prezi from prezi.com server using Web workers, and Chrome by default doesn't allow to send cross-domain requests from Web workers.
 To enable it, we need to run Chrome with a `--disable-web-security` flag from your terminal:
